@@ -1,6 +1,6 @@
-package storage;
+//package storage;
 
-import objects.Coordinates;
+//import objects.Coordinates;
 
 // Defines a common interface for collections of Coordinates
 // This can be applicapple to any non-unique object

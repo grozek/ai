@@ -1,8 +1,8 @@
-package storage;
+//package storage;
 
 import java.util.ArrayList;
 import java.util.List;
-import objects.Coordinates;
+//import objects.Coordinates;
 
 /*
  * DynamiteObj

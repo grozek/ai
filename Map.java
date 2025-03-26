@@ -1,12 +1,12 @@
 import java.util.ArrayList;
 
-import objects.AxeObj;
-import objects.Coordinates;
-import storage.DynamiteObj;
-import objects.MoneyObj;
-import objects.KeyObj;
-import storage.Forest;
-import utils.Utils;
+//import objects.AxeObj;
+//import objects.Coordinates;
+//import storage.DynamiteObj;
+//import objects.MoneyObj;
+//import objects.KeyObj;
+//import storage.Forest;
+//import utils.Utils;
 
 /*
  * Map class
